@@ -8,3 +8,6 @@ Ethernet - Common method of physically connecting hosts into a network using cab
 TCP/IP - Transmission Control Protocol / Internet Protocol - A collection of protocols that are used to define how network communication should take place between hosts.
 
 
+#### Configuring Network Devices
+Points to consider:
+
