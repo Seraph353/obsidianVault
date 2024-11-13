@@ -12,4 +12,4 @@ TCP/IP - Transmission Control Protocol / Internet Protocol - A collection of pro
 Points to consider:
 
 
-Netplan is the network config tool for Ubuntu. It is based on a YAML configuration system, and replaces the old configuration file used in Ubunutu
+Netplan is the network config tool for Ubuntu. It is based on a YAML configuration system, and replaces the old configuration file used in Ubuntu 18 and older
